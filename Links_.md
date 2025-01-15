@@ -1,3 +1,4 @@
 # Scratch-games
-https://scratch.mit.edu/projects/550409401/
-https://scratch.mit.edu/projects/557492624/
+2D-Platformer-https://scratch.mit.edu/projects/550409401/
+
+2D-Shooting game-https://scratch.mit.edu/projects/557492624/
